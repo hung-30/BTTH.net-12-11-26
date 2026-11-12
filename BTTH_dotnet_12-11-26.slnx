@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ERRORPROVIDER/ERRORPROVIDER.csproj" Id="c4a72c01-cc5c-40e4-a4b0-3b0613c99c94" />
+  <Project Path="Formquanlydssptrongbonho/Formquanlydssptrongbonho.csproj" Id="4a4a325e-5fb0-43e7-b0c8-43703cd05224" />
+  <Project Path="Tinhtiendvvachietkhaudonhang/Tinhtiendvvachietkhaudonhang.csproj" Id="149396f4-3879-4dd9-97ca-62d82bd6d738" />
+  <Project Path="Trinhquanlytaptindangchuyennghiep/Trinhquanlytaptindangchuyennghiep.csproj" Id="c6c9fb64-05af-449d-973a-4886b4293d77" />
+</Solution>
